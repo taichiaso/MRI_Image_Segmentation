@@ -6,7 +6,10 @@
 - AWS EC2
   - Deep Learning AMI (Ubuntu 16.04) Version 26.0 
   - p2.xlarge
-  
+
+
+![](report.pdf)
+
 ## Abstract
 Convolutional Neural Network (CNN) is generally used in image recognition. For image segmentation, several approaches, which are CNN models with extra process, have been developed in recent years. This paper introduces three major algorithms for image segmentation: FCN, SegNet, and U-Net, and evaluates segmentation methods of liver tumor with magnetic resonance (MR) images using them.
 
