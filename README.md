@@ -1,4 +1,4 @@
-# Live Tumour Segmentation with Magnetic Resonance (MR) Image
+# Liver Tumour Segmentation with Magnetic Resonance (MR) Image
 
 ## Programming Environment
 - Python 3.73
